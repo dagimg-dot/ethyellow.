@@ -1,0 +1,6 @@
+[submodule "eth-yellow-api"]
+	path = eth-yellow-api
+	url = https://github.com/dagimg-dot/eth-yellow-api.git
+[submodule "eth-yellow-frontend"]
+	path = eth-yellow-frontend
+	url = https://github.com/dagimg-dot/eth-yellow-frontend.git
